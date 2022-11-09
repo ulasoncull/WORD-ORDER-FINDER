@@ -1,0 +1,3 @@
+# WORD-ORDER-FINDER
+A program that summarizes the sequential word in two txt files as much as the user enters the function, and prints the most common words and their repetition numbers in a result file created by the program itself.
+A program that first extracts the words in the file named stopwords in two txt files, then extracts the summary of the sequential word as much as the user enters the function, and prints the most repeated words and their repetition numbers in a result file created by the program itself. The function can currently print the maximum number of occurrences of 2 sequential words.
